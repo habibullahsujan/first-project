@@ -61,7 +61,7 @@ p{
     box-shadow: 10px 20px 40px gray;
     border-radius: 40px;
     margin:30px;
-    padding:40px;
+    padding:20px;
 }
 
 .box-title{
@@ -106,4 +106,10 @@ html, body {
 }
 .top-part{
     font-size: 60px;
+}
+.third-image {
+    width:350px;
+    height:260px;
+    border-radius:20px;
+
 }
