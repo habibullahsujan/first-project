@@ -1,0 +1,105 @@
+
+.top-banner{
+    display: flex;
+    padding-bottom: 100px;
+    padding-left:20px;
+    background-image: url("images/shapes/Frame\ 58.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.first{
+    width: 60%;
+}
+.first-image {
+    width:100%
+}
+h1{
+    
+    font-size: 45px;
+}
+
+span {
+    color:tomato;
+}
+.order-button {
+    padding:10px 20px;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 60px gray;
+
+}
+.order-button:hover{
+    font-size: 30px;
+    flex-direction: column;
+}
+.about-me {
+    padding-right:100px;
+    padding-left:100px;
+}
+h2{
+    padding-bottom:20px;
+}
+p{
+    padding-bottom:20px;
+}
+.recipie-list {
+    display: flex;
+    
+}
+.recipie-image {
+    width:97%;
+   
+   
+
+}
+.box-1{
+  
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 40px;
+    margin:30px;
+    padding:40px;
+}
+
+.box-title{
+    text-align: center;
+    padding-left:300px;
+    padding-right:300px;
+}
+.color{
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.site-view{
+    display:inline-block;
+    padding-left:50px;
+    padding-right:50px
+}
+.site-views{
+    
+    text-align: center;
+    padding:20px;
+    box-shadow: 20px 20px 40px gray;
+    border-radius:20px;
+    margin:30px;
+
+}
+footer {
+    background-color: rgb(54, 52, 52);
+    color:white;
+    padding:30px;
+    
+
+    text-align: center;
+}
+
+html, body {
+    height:100%;
+    margin:0;
+
+}
+.top-part{
+    font-size: 80px;
+}
