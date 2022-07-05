@@ -7,6 +7,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
 .first{
     width: 80%;
 }
@@ -28,11 +29,12 @@ span {
     color: white;
     border-radius: 10px;
     box-shadow: 10px 10px 60px gray;
+    transition: all .2s ease;
 
 }
-.order-button:hover{
-    font-size: 30px;
-   
+.order-button:hover,
+.order-button:focus {
+  box-shadow: inset 6.5em 0 0 0 var(--hover);
 }
 .about-me {
     padding-right:100px;
